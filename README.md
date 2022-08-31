@@ -1,14 +1,6 @@
 # secureVaxBooking
 A Spring Boot App to facilitate appointment booking, engineered to be secure against common exploits and infiltration techniques.
 
-Finnian -25% - Forum Component of application
-
-Jonathan -25% - Booking Component of application
-
-Hassan -25% - Home page, Graphs Component and style of web application.
-
-Eugene -25% - Security components of web app and authentication/authorisation
-
 Notes:
 
 - Application can be run by running the application class. 
