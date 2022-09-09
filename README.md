@@ -1,4 +1,6 @@
 # secureVaxBooking
+![Screenshot 2022-03-06 at 12-38-07 Home](https://user-images.githubusercontent.com/72608789/156923840-e55bac90-ed4d-40ec-b98a-bcd9e9dae4b9.png)
+
 A Spring Boot App to facilitate appointment booking, engineered to be secure against common exploits and infiltration techniques.
 
 Notes:
@@ -65,4 +67,4 @@ Any accounts created through the app will be regular accounts, but an admin acco
 
 Vaccine bookings can be accessed from the "Book Your Vaccine" button on the homepage or from the navbar.
 Forum can be accessed from the "Be Stronger & Ask Anything" button on the homepage or from the navbar.
-![Screenshot 2022-03-06 at 12-38-07 Home](https://user-images.githubusercontent.com/72608789/156923840-e55bac90-ed4d-40ec-b98a-bcd9e9dae4b9.png)
+
